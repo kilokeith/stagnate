@@ -2,7 +2,7 @@
 
 Static site with React
 
-Meaningless comparison: the whole site payload (including trump image) is smaller than unminified jQuery
+Meaningless comparison: the whole site payload (including react, css, and trump image) is smaller than unminified jQuery
 
 * * *
 
