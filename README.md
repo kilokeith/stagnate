@@ -2,6 +2,8 @@
 
 Static site with React
 
+Meaningless comparison: the whole site payload (including trump image) is smaller than unuminified jQuery
+
 * * *
 
 This is an example project. At some point, I might pull the webpack config and entry.js out into a module.
