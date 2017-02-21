@@ -1,10 +1,10 @@
 import Home from './src/Home'
 import About from './src/About'
 
-const paths = {
+const routes = {
   '/': Home,
   '/about': About
 }
 
-export default paths
+export default routes
 
