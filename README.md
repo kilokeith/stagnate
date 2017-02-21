@@ -22,6 +22,8 @@ It's all webpack.
 
 `./routes.js` is passed into both the react router _and_ the static-site-generator-webpack-plugin. If you want a page to get rendered into a file, put it in there.
 
+Content comes from `./src/copy.js`, and uses a "content blocks" model.
+
 All the javascript gets bundled into a single external file. It would be cool if it was inlined.
 
 All the css gets compiled, then run through purifycss, which does a middling job of removing unused declarations.
